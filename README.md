@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img alt="Letmeask" src=".img-github/logo.svg" width="200px">
+  <img alt="Letmeask" src="./img-github/logo.svg" width="200px">
 </h1>
 
 <h4 align="center">Letmeask é uma aplicação para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma organizada e democrática. 💜</h4>
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src=".github/cover.svg" width=100%>
+  <img src="./img-github/cover.svg" width=90%>
 </p>
 
 ## Recursos
