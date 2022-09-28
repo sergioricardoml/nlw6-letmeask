@@ -40,7 +40,7 @@ O pacote de gerenciamento utilizado para a instalação é o [Yarn](https://yarn
 $ git clone https://github.com/sergioricardoml/nlw6-letmeask.git
 
 # Entre no repositório
-$ cd nlw6-letmeask-main
+$ cd nlw6-letmeask
 ```
 Para iniciá-lo, siga os passos abaixo:
 ```bash
